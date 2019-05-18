@@ -1,0 +1,13 @@
+Project set up on GCP
+FB page set up
+dialo agent
+
+Page Access Token For Messenger
+EAAhCAPX5avYBAJdAIgWrgBGkAZAxYAtRfyqo0pwilk7g1qaq2MpR0JSPKdMkKokETEZAR3wYOZAZC9PP69hMZAmHqHZBBF68JcCDpETg1Rg4qMu60iVzY8w8ZBTcLGoFKKZAIHf3sywpZBItLQZCdEZAf18reeeDsWxAKySuN4ll9KtYQZDZD
+
+Callback URL DialogueFlow
+https://bots.dialogflow.com/facebook/435b4431-dc12-4487-bb77-fcb2ca3f6790/webhook
+
+
+project id
+psappmentalhealth
