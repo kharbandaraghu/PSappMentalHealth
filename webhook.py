@@ -9,7 +9,7 @@ app = Flask(__name__)
 
 # set facebook api url for messenger
 FB_API_URL = 'https://graph.facebook.com/v2.6/me/messages'
-# set page access token - get from messenger page
+# set page access token - get from messenger page - replace with your own page access key
 PAGE_ACCESS_TOKEN = 'EAAhCAPX5avYBAJdAIgWrgBGkAZAxYAtRfyqo0pwilk7g1qaq2MpR0JSPKdMkKokETEZAR3wYOZAZC9PP69hMZAmHqHZBBF68JcCDpETg1Rg4qMu60iVzY8w8ZBTcLGoFKKZAIHf3sywpZBItLQZCdEZAf18reeeDsWxAKySuN4ll9KtYQZDZD'
 
 # we will need an environment variable for service.json file
