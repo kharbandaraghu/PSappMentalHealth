@@ -35,6 +35,7 @@ def get_bot_response(message,sessionId):
     except InvalidArgument:
         raise
 
+    print("Session ID: " + str(SESSION_ID))
     print("Query text:", response.query_result.query_text)
     print("Detected intent:", response.query_result.intent.display_name)
     print("Detected intent confidence:", response.query_result.intent_detection_confidence)
